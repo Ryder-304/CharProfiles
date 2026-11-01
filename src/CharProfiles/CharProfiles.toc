@@ -1,0 +1,17 @@
+## Interface: 20505
+## Title: CharProfiles
+## Notes: Character-scoped key-binding and action-bar profiles
+## Author: CharProfiles
+## Version: 0.1.0-dev
+## SavedVariables: CharProfilesDB, CharProfilesBackupDB
+## OptionalDeps: Blizzard_MacroUI
+
+Core/Util.lua
+Core/Schema.lua
+Core/Store.lua
+Core/Codec.lua
+Core/ProfileService.lua
+Adapters/Registry.lua
+Adapters/TBCClassic.lua
+UI/MainFrame.lua
+CharProfiles.lua
